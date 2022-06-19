@@ -11,3 +11,4 @@
 - [RabbitMQ Nedir?](https://www.borakasmer.com/rabbitmq-nedir/)
 - [MVC Nedir?](https://medium.com/@kdrcandogan/mvc-nedir-mvc-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-life-cycle-8e124f24650c)
 - [Symfony Demo MVC Project](https://github.com/symfony/demo)
+- [Magic Constants PHP](https://www.php.net/manual/tr/language.constants.magic.php)
