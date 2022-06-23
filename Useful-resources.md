@@ -12,3 +12,11 @@
 - [MVC Nedir?](https://medium.com/@kdrcandogan/mvc-nedir-mvc-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-life-cycle-8e124f24650c)
 - [Symfony Demo MVC Project](https://github.com/symfony/demo)
 - [Magic Constants PHP](https://www.php.net/manual/tr/language.constants.magic.php)
+
+## Perşembe Günü Derste Paylaşılan Kaynaklar
+
+## Bağlantılar
+
+- [Middleware - PHP Blog](https://doeken.org/blog/middleware-pattern-in-php)
+- [Middleware - PHP Video](https://www.youtube.com/watch?v=MBTgNEeJEWQ)
+- [Packagist](https://packagist.org)
